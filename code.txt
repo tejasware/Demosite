@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Personal Site</title>
+</head>
+<body bgcolor = yellow>
+<h1 align = center> Begin Ctf now</h1>
+<p> To begin with <i>ctf (Capture the flag)</i> you must know the following categories of questions like:<br>
+<ol>
+<li> Stegnography
+<li> Reverse Engineering
+<li> Cryptography
+<li> OSint
+<li> Web
+</ol>
+</p>
+<br>
+<p> For the practice of ctfs you can prefer the following sources
+<br>
+<ul>
+<li> <a href = "https://ctftime.org/">ctftime</a>
+<li> <a href = "https://tryhackme.com/">tryhackme</a>
+<li> <a href = "https://www.hackthebox.eu/">hackthebox</a>
+<li> <a href = "https://www.vulnhub.com/">vulnhub</a>
+</ul>
+</p>
+</body>
+</html>
